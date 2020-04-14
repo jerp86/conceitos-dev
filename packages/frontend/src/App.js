@@ -15,9 +15,21 @@ function App() {
     });
   }, []);
 
-  function handleAddProject() {
+  async function handleAddProject() {
     // projects.push(`Novo Projeto ${Date.now()}`);
-    setProjects([...projects, `Novo Projeto ${Date.now()}`]);
+    // setProjects([...projects, `Novo Projeto ${Date.now()}`]);
+    try {
+      const response = await api.post('projects', {
+        title: `Novo Projeto ${Date.now()}`,
+        owner: "José Eduardo Rodrigues Pinto",
+      });
+
+      const project = response.data;
+
+      setProjects([...projects, project]);
+    } catch (err) {
+      return err;
+    }
   }
 
   return (
