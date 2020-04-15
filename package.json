@@ -1,12 +1,16 @@
 {
   "name": "conceitos-dev",
   "version": "1.0.0",
-  "description": "Conceitos básicos sobre Node.js, ReactJS e React Native",
+  "description": "Conceitos básicos sobre Node.js, ReactJS e React Native e TypeScript",
   "main": "index.js",
   "author": {
     "name": "José Eduardo Rodrigues Pinto",
     "email": "jerp4@hotmail.com",
     "url": "https://github.com/jerp86"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerp86/conceitos-dev"
   },
   "license": "MIT",
   "workspaces": [
