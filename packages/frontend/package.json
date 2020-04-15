@@ -1,10 +1,16 @@
 {
   "name": "frontend",
   "version": "1.0.0",
+  "description": "Front-end com ReactJS",
   "main": "index.js",
+  "author": {
+    "name": "José Eduardo Rodrigues Pinto",
+    "email": "jerp4@hotmail.com",
+    "url": "https://github.com/jerp86"
+  },
   "license": "MIT",
   "scripts": {
-    "dev": "webpack-dev-server --mdde development",
+    "dev": "webpack-dev-server --mode development",
     "build": "webpack --mode production"
   },
   "dependencies": {

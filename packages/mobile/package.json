@@ -1,6 +1,12 @@
 {
   "name": "mobile",
   "version": "0.0.1",
+  "description": "Mobile com React Native",
+  "author": {
+    "name": "José Eduardo Rodrigues Pinto",
+    "email": "jerp4@hotmail.com",
+    "url": "https://github.com/jerp86"
+  },
   "private": true,
   "scripts": {
     "android": "react-native run-android",
