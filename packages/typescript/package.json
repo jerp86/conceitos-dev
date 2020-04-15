@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "TypeScript",
+  "main": "index.js",
+  "author": {
+    "name": "José Eduardo Rodrigues Pinto",
+    "email": "jerp4@hotmail.com",
+    "url": "https://github.com/jerp86"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "typescript": "^3.8.3"
+  }
+}
