@@ -1,6 +1,5 @@
 <h1 align="center">
   Conceitos básicos sobre Node.js, ReactJS e React Native e TypeScript
-  :javascript: :nodejs: :react: :typescript: 
 </h1>
 
 ---
@@ -19,9 +18,9 @@
 
 # Indice
 
-- 📝️ [Sobre](#-sobre)
+- 📝️ [Sobre](#%EF%B8%8F-sobre)
 - 👨‍💻️ [Tecnogias utilizadas](#%EF%B8%8F-tecnogias-utilizadas)
-- 📋️ [IDE e Facilidades](#-ide-e-facilidades)
+- 📋️ [IDE e Facilidades](#%EF%B8%8F-ide-e-facilidades)
 - 📦️ [Como baixar o projeto](#%EF%B8%8F-como-baixar-o-projeto)
 - 🤔️ [Como contribuir](#%EF%B8%8F-como-contribuir)
 
